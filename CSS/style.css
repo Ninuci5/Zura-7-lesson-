@@ -12,14 +12,18 @@
     background-color: red;
     /* border-top-right-radius: 130px;
     border-bottom-left-radius: 130px;  */
-    border-radius:50%;
+    /* border-radius:50%; */
+
+    box-shadow:x y blur color;
+    box-shadow: 20px 20px 20px black;
 }
-img{
+
+/* img{
     width: 400px;
     height: 400px;
     /* border-top-right-radius: 130px;
     border-bottom-left-radius: 130px; */
-    border-radius: 50%;
+    /* border-radius: 50%;
+    border:20px  dashed red;
 
-}
-   
+} */
